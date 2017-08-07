@@ -1,0 +1,62 @@
+- zoom is at 240% when screen capturing
+- font is at 22 for terminal
+
+- song: kontekst-buddha
+    - 00:00 `Introducing Artifact`
+        - `the simple` ... `linkable` ... `programatic`
+        - `design documentation tool`
+        - `for everybody`
+        - `open source`
+    - 14:00 "Artifact"
+        - "design documentation"
+        - "for everybody"
+        -     "(not just managers)"
+        - 00:22 `lyrics: that's good`
+    - 00:28 `edit in the browser`
+        - `search`
+        - `write text + save + render`
+        - `link`
+        - `view completeness`
+        - `view code`
+    - XX:XX `or a text editor`
+        - `simple toml format` (creating a whole artifact)
+        - `fast refactoring`
+    - XX:XX use revision control
+        - `git diff`
+        - `code review`
+    - XX:XX `command line tools`
+        - `check for errors`
+        - `format`
+        - `list`
+        - `filter`
+        - `view`
+    - XX:XX `external tool integration`
+        - `export static html`
+        - `use static links for`
+        - `github ... JIRA ... anywhere`
+    - XX:XX `support us`
+        - `star us on github`
+        - `provide feedback`
+        - `give on patreon`
+        - `become a sponsor`
+
+
+# OLD
+- 00:00 "Artifact: simple, linkable, programatic design documentation"
+- 00:05 "Write documents in your browser"
+- 00:10 "or in your text editor"
+- 00:14 "track via revision control and code review. Simple."
+- 00:17 "link your design documents\n to eachother"
+    - 00:18 "in descriptions"
+    - 00:20 "in code"
+    - 00:23 "see those links in code"
+- 00:26 Writing Design Documents
+    - Requirements, Specifications and Tests
+    - REQ, SPC, and TST (naming matters)
+- 00:33 Linking in code
+    - all you need is #ART-name
+- 00:39 Tracking Project Completeness
+    - every artifact is as done as its parts
+    - and/or implemented in code
+- 00:46 Add to your build system
+    - Lint, fmt and export as html. Batteries included
