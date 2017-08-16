@@ -26,8 +26,8 @@
         - `code review`
     - XX:XX `command line tools`
         - `check for errors`
-        - `format`
-        - `list`
+        - ~~`format`~~
+        - ~~`list`~~
         - `filter`
         - `view`
     - XX:XX `external tool integration`
